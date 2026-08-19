@@ -36,22 +36,6 @@ I specialize in engineering systems that:
 
 # ⚡ Featured Projects
 
-## ⚡ Vidyut — Intelligent EV Charging Platform
-
-AI-driven EV charging ecosystem with battery-aware journey planning and smart charger optimization.
-
-**Backend Features:**
-* Journey planning with battery constraints
-* Real-time charger availability & dynamic rerouting
-* Multi-objective optimization (cost/time/range)
-* Charging session management & analytics
-
-**Tech:** `Java` `Spring Boot` `PostgreSQL` `OSRM` `AI Agents`
-
-🔗 [Explore Vidyut](https://github.com/cs1m2414238/vidyutEV-1.0)
-
----
-
 ## 🛰️ GNSS/RTK NTRIP Client System
 
 High-performance rover-side GNSS corrections handler for real-time positioning.
